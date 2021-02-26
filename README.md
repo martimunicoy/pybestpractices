@@ -28,3 +28,7 @@ be correctly interpreted by Python or any external tool that can be used
 to display it. One format that offers both good human readability and
 machine interpretation is
 [Numpy docstring standard](https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard)
+
+
+# Acknowledgements
+Inspired by: https://github.com/choderalab/software-development
